@@ -120,9 +120,9 @@
                 ?>
             </table>
             <script>
-            $(document).ready(function() {
-                    $('#dataTable').DataTable();
-            });
+                $(document).ready(function() {
+                        $('#dataTable').DataTable();
+                });
             </script>
         </div>
     </body>
