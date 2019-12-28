@@ -1,0 +1,82 @@
+* {
+    font-family: 'Museo Slab', sans-serif;
+}
+
+body {
+    background-color: #E4E4E4;
+}
+
+#form-containers {
+    width: 400px;
+    height: auto;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.errors {
+    font-weight: 800;
+    color: red;
+    display: none;
+}
+
+.buttonColor {
+    background-color: #CEDD44 !important;
+    border-color: #CEDD44 !important;
+    color: black !important;
+}
+
+.buttonColor:hover {
+    background-color: white !important; 
+}
+
+.textVCenter {
+    padding:10%;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.home-div {
+    padding-top: 4%;
+    margin: auto;
+    width: 100%;
+    max-width: 70%;
+}
+
+.white-text {
+    color: white !important;
+}
+
+.center-text {
+    text-align: center; 
+    margin-top: 5%;
+}
+
+table {
+    border-color:black !important;
+    border-collapse: collapse !important;
+    border-radius: 10px;
+}
+
+th, td {
+    border-color: black !important;
+}
+
+.rounded-border-left {
+    border-top-left-radius: 10px;
+}
+
+.rounded-border-right {
+    border-top-right-radius: 10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    background-color: #104477;
+    text-align: center;
+}
